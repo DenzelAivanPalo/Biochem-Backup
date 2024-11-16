@@ -2,7 +2,7 @@
 // Database connection details
 $servername = "localhost";
 $username_db = "root";
-$password_db = "";
+$password_db = "dalp_rex77655";
 $dbname = "biochem";
 
 // Create connection
